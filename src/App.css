@@ -1,0 +1,17 @@
+*{
+  padding : 0 ; 
+  margin : 0 ; 
+  box-sizing : border-box ; 
+}
+
+a{
+  text-decoration: none ;
+  color : white ; 
+}
+.container{
+  width : 80% ; 
+  height : 80% ; 
+  background-color: pink;
+  display : flex ; 
+  justify-content: space-between ; 
+}
