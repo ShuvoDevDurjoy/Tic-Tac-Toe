@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/Tic-Tac-Toe/static/css/main.cf3e685b.css",
-    "main.js": "/Tic-Tac-Toe/static/js/main.c53e1c11.js",
-    "static/js/453.2a82e7ac.chunk.js": "/Tic-Tac-Toe/static/js/453.2a82e7ac.chunk.js",
-    "index.html": "/Tic-Tac-Toe/index.html",
-    "main.cf3e685b.css.map": "/Tic-Tac-Toe/static/css/main.cf3e685b.css.map",
-    "main.c53e1c11.js.map": "/Tic-Tac-Toe/static/js/main.c53e1c11.js.map",
-    "453.2a82e7ac.chunk.js.map": "/Tic-Tac-Toe/static/js/453.2a82e7ac.chunk.js.map"
+    "main.css": "/ExcelSheet/static/css/main.92ade9b6.css",
+    "main.js": "/ExcelSheet/static/js/main.8732d45a.js",
+    "index.html": "/ExcelSheet/index.html",
+    "main.92ade9b6.css.map": "/ExcelSheet/static/css/main.92ade9b6.css.map",
+    "main.8732d45a.js.map": "/ExcelSheet/static/js/main.8732d45a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf3e685b.css",
-    "static/js/main.c53e1c11.js"
+    "static/css/main.92ade9b6.css",
+    "static/js/main.8732d45a.js"
   ]
 }
