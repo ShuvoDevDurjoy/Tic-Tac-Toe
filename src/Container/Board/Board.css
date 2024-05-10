@@ -1,9 +1,0 @@
-.row{
-    display : flex ; 
-}
-
-.status{
-    min-width : 50% ; 
-    background-attachment: yellow;
-    font-size : 3rem ; 
-}

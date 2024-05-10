@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://shuvodevdurjoy.github.io/Tic-Tac-Toe",
+  "homepage": "https://shuvodevdurjoy.github.io/ExcelSheet/",
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
@@ -40,5 +40,9 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
